@@ -1,0 +1,4 @@
+img/*
+Generate/
+__pycache__/
+output/
